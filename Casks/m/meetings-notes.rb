@@ -1,5 +1,5 @@
 cask "meetings-notes" do
-  version "1.2.0"
+  version "1.2.1"
   sha256 "6a77d783c67bb66b12f153a6501fd72edbceac02d3bd9064e329bc8e7e91c6a4"
 
   url "https://github.com/antondudakov/meetings-notes/releases/download/v#{version}/MeetingsNotes-#{version}.dmg",
